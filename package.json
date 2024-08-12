@@ -1,0 +1,13 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "leo valle",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc && node ./public/src/index.js"
+  },
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
